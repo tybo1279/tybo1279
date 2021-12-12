@@ -1,1 +1,1 @@
-Hey, welcome to my page!
+Hello, welcome to my page!
